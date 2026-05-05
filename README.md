@@ -42,15 +42,10 @@ keep human control where it matters.
 This repository is a public product showcase, not the DialogHub source code
 repository.
 
-It gives a concise view of what the platform does and how its public product
-surface is developing:
-
-- [DialogHub feature and platform overview](./docs/features.md)
-
 It does not contain application source code, secrets, infrastructure
 configuration, customer data, billing logic, or internal deployment details.
 
 ## Status
 
-DialogHub is an active product. This showcase will evolve as public-facing
-features, screenshots, and product notes become ready for publication.
+DialogHub is an active product. This showcase will stay intentionally concise
+and will be updated only with public-facing product information.
