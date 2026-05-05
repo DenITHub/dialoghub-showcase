@@ -1,0 +1,13 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local scratch
+tmp/
+.tmp/
+
+# Secrets must never be committed
+.env
+.env.*
+secrets/
