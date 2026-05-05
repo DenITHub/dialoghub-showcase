@@ -39,33 +39,16 @@ keep human control where it matters.
 
 ## Public Showcase
 
-This repository is a public product showcase. It is intentionally not the
-DialogHub source code repository.
+This repository is a public product showcase, not the DialogHub source code
+repository.
 
-It contains:
+It gives a concise view of what the platform does and how its public product
+surface is developing:
 
-- product overview
-- feature map
-- screenshots
-- roadmap
-- changelog
-- integrations overview
-- support information
+- [DialogHub feature and platform overview](./docs/features.md)
 
-Start here:
-
-- [Features](./docs/features.md)
-- [Roadmap](./docs/roadmap.md)
-- [Changelog](./docs/changelog.md)
-- [Integrations](./docs/integrations.md)
-- [Screenshots](./docs/screenshots.md)
-- [Support](./docs/support.md)
-
-## Repository Scope
-
-This repository does not contain application source code, secrets,
-infrastructure configuration, customer data, billing logic, or internal
-deployment details.
+It does not contain application source code, secrets, infrastructure
+configuration, customer data, billing logic, or internal deployment details.
 
 ## Status
 
